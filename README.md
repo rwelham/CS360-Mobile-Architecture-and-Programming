@@ -14,6 +14,4 @@ I tested by opening the app and moving through the various screens to test the v
 
 
 ## Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-
-
-## In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+Trying to figure out how to connect the different screens and the different kinds of transitions from the screens was definitely a challenge at first, but with looking at the AndroidStudio resources and looking at some sample projects, I was able to figure out the different ways to transition between screens. This, and the ability to create what I have, shows the improvement in skill and experience. 
