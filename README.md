@@ -1,8 +1,19 @@
 # CS360-Mobile-Architecture-and-Programming
 
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
-How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
-Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The app created and logged here is an event tracking app that is meant to have a login/signup, a display of different events the user wants to keep track of, the ability to add or delete events, and the ability to set permissions for receiving SMS messages. The app is meant to help a user keep track of their events and keep their schedule more organized. 
+
+## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+The different features include a way to login to save events, a way to signup if you're a new user, a way to store events within a database, a way to add events, a way to delete events, and the ability to receive SMS to alert the user of upcoming events. The different screens include a screen in which the user either logs in or signs up. This is designed to be very simple and streamlined so the focus is on the app with minimal distractions. The next screen is a grid of events that the user has added to the database. This screen also include options to add a new event or delete an existing event. The buttons are clearly labeled and the font is at a clear and readable size. The next screen is the add event screen in which you fill out a form to add the event. This includes instructions on what each box is expecting and a bit of error catching for boxes where the information should be integers. 
+
+## How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+The process of coding the app involved first looking at what needs I was trying to fulfill and how to compose the various elements to my app. I started with designing the UI and understanding what specific screens needed to be available for the user. After that, I created the basic UI and framework for it, knowing that I might add a button here or there depending on screen transitions. Finally, I started coding the app features. This became a step-by-step process of moving logically from screen to screen. I first started with designing the database needed to hold the login and signups for the user. Then I moved inward to the main screen with all the events, and so on until all the features were completed. 
+
+## How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+I tested by opening the app and moving through the various screens to test the various features. It revealed that I need to fix some of the resource use of my app and look into using fragments and background threads to help the app keep up with its workload. Testing is vital in any project.
+
+
+## Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+
+
+## In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
